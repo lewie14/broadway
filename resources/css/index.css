@@ -7,5 +7,32 @@ body {
 
 h1 {
   font-size: 70px;
-  font-weight: normal;
+  font-weight: bold;
+  color: white;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
+
+.newyork{
+  color: white;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.linkstyle{
+  font-size: 18px;
+  color: white;
+  font-weight: bold;
 }
