@@ -1,19 +1,11 @@
-* {
-  font-family: Helvetica, Arial, sans-serif;
+body {
+  background-color: white;
+  text-align: center;
+  font-family: "Helvetica", sans-serif;
+  color: dimgray;
 }
-
 
 h1 {
-  color: SeaGreen;
-}
-
-
-p,
-li {
-  font-size: 18px;
-}
-
-
-a {
-  text-decoration: none;
+  font-size: 70px;
+  font-weight: normal;
 }
