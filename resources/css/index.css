@@ -27,6 +27,12 @@ h4 {
   color: white;
 }
 
+h5{
+  font-size: 11px;
+  font-weight: bold;
+  color: white;
+}
+
 p {
   font-size: 14px;
 }
@@ -38,5 +44,7 @@ p {
 }
 
 .footer {
-  text-align: right;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
 }
